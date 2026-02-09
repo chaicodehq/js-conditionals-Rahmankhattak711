@@ -38,5 +38,4 @@ export function getTrafficAction(color) {
     default:
       return "INVALID SIGNAL";
   }
-
 }
